@@ -2,10 +2,10 @@ import Spline from "@splinetool/react-spline";
 import styled from "styled-components";
 
 // IMPORTS IMGS
-import logo from "./img/logo.svg";
-import IconYT from "./img/icon-youtube.svg";
-import IconTwitter from "./img/icon-twitter.svg";
-import IconLaptop from "./img/icon-laptop.svg";
+// import logo from "./img/logo.svg";
+// import IconYT from "./img/icon-youtube.svg";
+// import IconTwitter from "./img/icon-twitter.svg";
+// import IconLaptop from "./img/icon-laptop.svg";
 
 export default function App() {
   return (
