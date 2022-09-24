@@ -36,7 +36,9 @@ export default function App() {
               <a href="#">Login</a>
             </li>
             <li>
-              <button>Get Started</button>
+              <a href="https://dylan-cerv.web.app/">
+                <button>Portfolio</button>
+              </a>
             </li>
           </Menu>
           <h1>Collaborate with people</h1>
